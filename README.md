@@ -1,7 +1,5 @@
 # TypeScript Jest Mock Examples
 
-# Example:
-
 [![102nd-floor](https://circleci.com/gh/102nd-floor/ts-jest-mock-examples.svg?style=svg)](https://github.com/102nd-floor/ts-jest-mock-examples)
 
 Examples using Typescript and Jest to mock external libs as well as yours.
